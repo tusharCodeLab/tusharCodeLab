@@ -9,6 +9,13 @@
 
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1500&color=94A3B8&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Building+Production-Ready+Web+Applications" />
+</p>
 
 
 <div align="center">
