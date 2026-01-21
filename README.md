@@ -15,4 +15,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=tusharCodeLab&icon=5&color=3)](https://visitcount.itsvg.in)
 
+![Profile Views](https://komarev.com/ghpvc/?username=tusharCodeLab&label=Profile%20Views&color=0e75b6&style=flat)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
